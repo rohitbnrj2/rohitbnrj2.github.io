@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rohitbnrj2.github.io/sitemap.xml
+Sitemap: https://rohitbnrj2.github.io//sitemap.xml
